@@ -6,7 +6,7 @@
 <p><a href="https://ore.spongepowered.org/">Plugins</a></p>
 <h2>Step 1</h2>
 <img src="https://cdn.discordapp.com/attachments/871132662667038722/871132671588331570/unknown.png"/>
-<p>Open the setup.txt and change to 512 1024 2048 4096 8192 16384 etc. or leave the default.</p>
+<p>Open the setup.txt and change to <sup>512 1024 2048 4096 8192 16384</sup> etc. or leave the default.</p>
 <code>java -Xmx1024M -Xms1024M -jar server.jar nogui</code>
 <p>after that change from setup.txt to setup.bat and launch!</p>
 <sub>make sure the name is the same as there</sub>
