@@ -1,0 +1,2 @@
+DELETE THIS
+Github is blocking .jar files so go here and install your version: https://mcversions.net/
