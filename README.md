@@ -11,5 +11,5 @@
 <p>after that change from setup.txt to setup.bat and launch!</p>
 <sub>make sure the name is server.jar</sub>
 <h2>Step 2</h2>
-<img src="https://cdn.discordapp.com/attachments/871132662667038722/871454577952690196/unknown.png"/>
+<img src="https://cdn.discordapp.com/attachments/871132662667038722/871456163806445588/unknown.png"/>
 <p>set value to true.</p>
